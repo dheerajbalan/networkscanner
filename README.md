@@ -19,9 +19,8 @@ This is a simple network scanner tool built with Python using the `scapy` librar
 1. Clone the repository or download the script file.
 2. Install the required Python packages using `pip`:
 
-```bash
+bash
 	pip install scapy colorama
-
 Usage
 
 To run the network scanner, use the following command:
@@ -53,5 +52,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Acknowledgments
 
-    This tool uses the scapy library for network scanning.
-    Inspired by various network scanning scripts and tutorials.test
+This tool uses the scapy library for network scanning.
+Inspired by various network scanning scripts and tutorials.test
