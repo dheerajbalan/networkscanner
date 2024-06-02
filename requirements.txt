@@ -1,1 +1,2 @@
-test
+scapy==3.4,>=3.5
+colorama >= 0.4.6
